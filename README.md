@@ -47,7 +47,7 @@ pip install language_data
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone ```https://github.com/gopiashokan/YouTube-Video-Transcript-Summarizer-with-GenAI.git
+1. Clone the repository: ```git clone ```https://github.com/Apoorvganbhoj/Youtube-Video-Summarizer
 2. Install the required packages: ```pip install -r rementqui.txt```
 3. Add your Google API key to the `.env` file.
 4. Run the Streamlit app: ````streamlit run app.py``
